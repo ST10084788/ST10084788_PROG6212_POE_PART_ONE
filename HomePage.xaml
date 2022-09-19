@@ -1,0 +1,21 @@
+﻿<Page x:Class="ST10084788_PROG6212_PROG_POE_PART_ONE.HomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ST10084788_PROG6212_PROG_POE_PART_ONE"
+      mc:Ignorable="d" 
+      Height="615" Width="1080"
+      Background="Black"
+      Title="HomePage">
+
+    <Grid>
+        <!--Displays header onto StackPanel-->
+        <StackPanel x:Name="StackPanel1" Background="Black" Margin="70,150,130,278"  >
+            <Image Source="Pictures/studyplanner.jpeg"
+                   Stretch="Fill" Width="534" Height="82" />
+        </StackPanel>
+        <!--Brief summary of application onto TextBlock-->
+        <TextBlock Foreground="PeachPuff" FontSize="16" HorizontalAlignment="Center" Margin="0,324,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="199" Width="656"><Run Text="Welcome To The Study Planner Application!"/><LineBreak/><Run Text="In This Application You Will Be Able To Do The Following:"/><LineBreak/><Run Text="-"/><Run Text=" "/><Run Text="Save Your Current Semester Details"/><LineBreak/><Run Text="- Add Multiple Modules"/><LineBreak/><Run Text="- The Application Will Then Calculate Your Self-Study Hours For The Week"/><LineBreak/><Run Text="-"/><Run Text=" "/><Run Text="You Can Add Multiple Self-Study Sessions And The Application Will "/><Run Text="P"/><Run Text="rocess The Remaining"/><Run Text="  "/><Run Text=" "/><Run Text="      "/><Run Language="en-za" Text=" "/><Run Text="H"/><Run Text="ours Of That Week"/></TextBlock>
+    </Grid>
+</Page>

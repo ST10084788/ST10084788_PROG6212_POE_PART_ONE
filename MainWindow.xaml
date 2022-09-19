@@ -1,0 +1,21 @@
+﻿<Window x:Class="ST10084788_PROG6212_PROG_POE_PART_ONE.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10084788_PROG6212_PROG_POE_PART_ONE"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1020" Background="Red" 
+        ResizeMode="NoResize"
+        Topmost="True"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen" >
+    <Grid>
+        <!--Frame to call pages-->
+        <Frame x:Name="FrameMain" Margin="0,83,0,0" Background="Black" NavigationUIVisibility="Hidden" Height="615" Width="1020" Loaded="FrameMain_Loaded_1"/>
+        <Button Background="Black" Foreground="PeachPuff" Content="Home" HorizontalAlignment="Left" Margin="54,19,0,0" VerticalAlignment="Top" Height="50" Width="102" Click="Button_Click_1"/>
+        <Button Background="Black" Foreground="PeachPuff" x:Name="SemesterMenu" Content="Semester Information" HorizontalAlignment="Left" Margin="456,19,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.006,0.367" Height="50" Width="128" Click="Button_Click" />
+        <Button Background="Black" Foreground="PeachPuff"  Content="Exit" HorizontalAlignment="Left" Margin="876,19,0,0" VerticalAlignment="Top" Width="93" Height="50" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

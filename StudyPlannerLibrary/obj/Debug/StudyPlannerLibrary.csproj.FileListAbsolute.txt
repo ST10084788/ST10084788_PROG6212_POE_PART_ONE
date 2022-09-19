@@ -1,0 +1,6 @@
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\bin\Debug\StudyPlannerLibrary.dll
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\bin\Debug\StudyPlannerLibrary.pdb
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\obj\Debug\StudyPlannerLibrary.csproj.AssemblyReference.cache
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\obj\Debug\StudyPlannerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\obj\Debug\StudyPlannerLibrary.dll
+C:\Users\shiva\OneDrive\Desktop\POE\ATTEMPT3\ST10084788_PROG6212_PROG_POE_PART_ONE\StudyPlannerLibrary\obj\Debug\StudyPlannerLibrary.pdb
